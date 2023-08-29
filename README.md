@@ -27,16 +27,13 @@ npm install -g @angular/cli
 
 ### Installation
 1. Clone the repository: 
-
-git clone https://github.com/NaomiOyerbach/Weather-App.git
+  git clone https://github.com/NaomiOyerbach/Weather-App.git
 
 2. Navigate to the project directory: 
-
-cd Weather-App
+  cd Weather-App
 
 3. Install the project dependencies: 
-
-npm install
+  npm install
 
 
 ## Usage
@@ -44,6 +41,7 @@ npm install
 
 ng serve
 2. Open your browser and navigate to [http://localhost:4200](http://localhost:4200).
+
 3. Enter the name of a city in the search box and press "Enter" or click the search button.
 4. The app will display the current weather information for the entered city, including temperature, weather conditions, and more.
 
@@ -55,13 +53,10 @@ Contributions to the Angular Weather App are welcome! If you encounter any issue
 1. Fork the repository.
 2. Create your feature branch: 
   git checkout -b feature/your-feature
-
 4. Commit your changes: 
   git commit -am 'Add some feature'
-
 5. Push to the branch: 
   git push origin feature/your-feature
-
 6. Submit a pull request.
 
 Feel free to reach out and connect. I'm excited to see how this app helps you explore the weather in different cities. Happy coding!
