@@ -10,6 +10,9 @@ Welcome to the Angular Weather App! This is an amazing web application that allo
 - [Usage](#usage)
 - [Contributing](#contributing)
 
+## Screenshot
+![image](https://github.com/NaomiOyerbach/Weather-App/assets/118778396/56cfd67b-d1c6-4a97-ae04-ecf518b1be5c)
+
 ## Features
 - Search for weather information by city name.
 - Display of current temperature, weather conditions, and more.
@@ -24,8 +27,6 @@ Before you begin, make sure you have the following installed:
 
 npm install -g @angular/cli
 
-
-![image](https://github.com/NaomiOyerbach/Weather-App/assets/118778396/56cfd67b-d1c6-4a97-ae04-ecf518b1be5c)
 
 ### Installation
 1. Clone the repository: 
@@ -48,7 +49,7 @@ ng serve
 4. The app will display the current weather information for the entered city, including temperature, weather conditions, and more.
 
 ## Contributing
-Hey there, I'm Naomi, a passionate software developer who loves to code and explore new technologies. My journey involves working with a variety of tech stacks, from React and Angular to Node.js and SQL, and much more. I'm always excited to contribute to open-source projects such as #languageTool that make a positive impact.
+Hey there, I'm Naomi, a passionate software developer who loves to code and explore new technologies. My journey involves working with a variety of tech stacks, from React and Angular to Node.js and SQL, and much more. I'm always excited to contribute to open-source projects such as [#languageTool ](https://github.com/languagetool-org/languagetool) that make a positive impact.
 
 Contributions to the Angular Weather App are welcome! If you encounter any issues or would like to enhance the app, feel free to submit a pull request.
 
