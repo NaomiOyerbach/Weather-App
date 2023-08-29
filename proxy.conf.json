@@ -1,0 +1,11 @@
+{
+    "/api": {
+      "target": "https://open-weather-map27.p.rapidapi.com",
+      "secure": true,
+      "changeOrigin": true,
+      "pathRewrite": {
+        "^/api": ""
+      }
+    }
+  }
+  
