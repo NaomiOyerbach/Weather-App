@@ -43,29 +43,26 @@ npm install
 1. Start the development server: 
 
 ng serve
-
 2. Open your browser and navigate to [http://localhost:4200](http://localhost:4200).
 3. Enter the name of a city in the search box and press "Enter" or click the search button.
 4. The app will display the current weather information for the entered city, including temperature, weather conditions, and more.
 
 ## Contributing
-Hey there, I'm Naomi, a passionate software developer who loves to code and explore new technologies. 
-My journey involves working with a variety of tech stacks, from React and Angular to Node.js and SQL, and much more. 
-I'm always excited to contribute to open-source projects such as #languageTool that make a positive impact.
+Hey there, I'm Naomi, a passionate software developer who loves to code and explore new technologies. My journey involves working with a variety of tech stacks, from React and Angular to Node.js and SQL, and much more. I'm always excited to contribute to open-source projects such as #languageTool that make a positive impact.
 
 Contributions to the Angular Weather App are welcome! If you encounter any issues or would like to enhance the app, feel free to submit a pull request.
 
 1. Fork the repository.
 2. Create your feature branch: 
-git checkout -b feature/your-feature
+  git checkout -b feature/your-feature
 
-3. Commit your changes: 
+4. Commit your changes: 
   git commit -am 'Add some feature'
 
-4. Push to the branch: 
+5. Push to the branch: 
   git push origin feature/your-feature
 
-5. Submit a pull request.
+6. Submit a pull request.
 
 Feel free to reach out and connect. I'm excited to see how this app helps you explore the weather in different cities. Happy coding!
 
