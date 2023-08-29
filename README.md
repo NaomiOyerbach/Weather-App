@@ -1,6 +1,6 @@
 # Angular Weather App
 
-Welcome to the Angular Weather App! This is a simple web application that allows users to retrieve weather information for different cities. Built using Angular, the app utilizes the OpenWeatherMap API to fetch real-time weather data and present it in a user-friendly format.
+Welcome to the Angular Weather App! This is a amazing web application that allows users to retrieve weather information for different cities. Built using Angular, the app utilizes the OpenWeatherMap API to fetch real-time weather data and present it in a user-friendly format.
 
 ## Table of Contents
 
@@ -10,7 +10,6 @@ Welcome to the Angular Weather App! This is a simple web application that allows
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
