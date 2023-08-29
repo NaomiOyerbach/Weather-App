@@ -25,6 +25,8 @@ Before you begin, make sure you have the following installed:
 npm install -g @angular/cli
 
 
+![image](https://github.com/NaomiOyerbach/Weather-App/assets/118778396/56cfd67b-d1c6-4a97-ae04-ecf518b1be5c)
+
 ### Installation
 1. Clone the repository: 
   git clone https://github.com/NaomiOyerbach/Weather-App.git
