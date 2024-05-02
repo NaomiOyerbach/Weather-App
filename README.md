@@ -66,4 +66,4 @@ Feel free to reach out and connect. I'm excited to see how this app helps you ex
 
 Connect with me:
 - [GitHub](https://github.com/NaomiOyerbach)
-- [LinkedIn](https://www.linkedin.com/in/naomioyerbach)
+- [LinkedIn](https://www.linkedin.com/in/naomi-auerbach)
